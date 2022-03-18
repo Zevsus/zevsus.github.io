@@ -1,5 +1,5 @@
-
-{ "latestVersionCode": 1.5,
+{ 
+  "latestVersionCode": 1.5,
   "updateMessage": "An Update is Required to use FreeVpn.",
   "forceUpdate": true,
   "updateIntent": "market://details?id=ru.freevpn.online",
